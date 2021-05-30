@@ -15,7 +15,13 @@ JupyterLab is a web-based interactive development environment for Jupyter notebo
 ### Directory Structure :
     Jupyter-Notebook
     |
-    |-- OpenCV2.ipynb
+    |-- opencv2_color_detection.py
+    |-- opencv2_face_detection.py
+    |-- opencv2_face_recognition.py
+    |-- opencv2_object_tracking.py
+    |-- opencv2_shape_detection.py
+    |-- opencv2_youtube_tutorial.py
+
     |
     |-- Img
     |    |-- javascript.svg
